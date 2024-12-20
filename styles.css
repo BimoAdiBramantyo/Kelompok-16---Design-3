@@ -6,12 +6,12 @@
   }
   
   .nav-wrapper {
-    background: var(--Dark-blue, #141352);
+    background: #141352;
     display: flex;
     width: 100%;
     flex-direction: column;
     overflow: hidden;
-    color: var(--White, #fff);
+    color: #fff;
     padding: 28px 76px;
     font: 500 32px/1 DM Sans, sans-serif;
   }
@@ -30,7 +30,7 @@
   }
   
   .nav-link {
-    color: var(--White, #fff);
+    color: #fff;
     text-decoration: none;
     padding: 8px;
   }
@@ -43,13 +43,13 @@
     flex-direction: column;
     align-items: end;
     font-family: Space Grotesk, sans-serif;
-    color: var(--White, #fff);
+    color: #fff;
     text-align: right;
     margin: 121px 181px 0 0;
   }
   
   .hero-title {
-    color: var(--Soft-blue, #c5ddf9);
+    color: #c5ddf9;
     letter-spacing: 24.96px;
     font: 900 120px/123px DM Sans, sans-serif;
   }
@@ -63,8 +63,8 @@
   
   .primary-button {
     border-radius: 34px;
-    background: var(--Purple, #9d29c0);
-    color: var(--White, #fff);
+    background: #9d29c0;
+    color: #fff;
     font-size: 32px;
     font-weight: 700;
     padding: 12px 40px;
@@ -76,7 +76,7 @@
   }
   
   .events-section {
-    background: var(--Light-violet, #808ae7);
+    background: #808ae7;
     margin-top: 257px;
     padding: 79px 80px 158px;
     width: 100%;
@@ -91,7 +91,7 @@
   }
   
   .section-title {
-    color: var(--White, #fff);
+    color: #fff;
     font: 700 64px/1 DM Sans, sans-serif;
   }
   
@@ -116,7 +116,7 @@
   .event-content {
     width: 615px;
     min-width: 240px;
-    color: var(--Dark, #00171f);
+    color: #00171f;
     text-align: right;
     font: 700 32px Space Grotesk, sans-serif;
   }
@@ -127,7 +127,7 @@
   }
   
   .event-details {
-    color: var(--Mid-blue, #007ea7);
+    color: #007ea7;
     line-height: 32px;
     margin-top: 28px;
   }
@@ -141,8 +141,8 @@
   
   .register-button {
     border-radius: 34px;
-    background: var(--Purple, #9d29c0);
-    color: var(--White, #fff);
+    background: #9d29c0;
+    color: #fff;
     width: 100%;
     padding: 15px 62px;
     border: none;
@@ -155,7 +155,7 @@
   }
   
   .about-section {
-    background: var(--Dark-blue, #141352);
+    background: #141352;
     padding: 128px 180px;
   }
   
@@ -164,7 +164,7 @@
     margin-top: 75px;
     align-items: center;
     gap: 40px 106px;
-    color: var(--White, #fff);
+    color: #fff;
     text-align: right;
     font: 400 32px/40px Space Grotesk, sans-serif;
   }
@@ -182,7 +182,7 @@
   }
   
   .contact-section {
-    background: var(--Dark-blue, #141352);
+    background: #141352;
     display: flex;
     gap: 40px 49px;
     padding: 101px 180px;
@@ -194,11 +194,11 @@
     width: 442px;
     min-width: 240px;
     font-size: 32px;
-    color: var(--White, #fff);
+    color: #fff;
   }
   
   .contact-title {
-    color: var(--Soft-blue, #c5ddf9);
+    color: #c5ddf9;
     font: 64px DM Sans, sans-serif;
   }
   
@@ -230,8 +230,8 @@
   
   .submit-button {
     border-radius: 34px;
-    background: var(--Light-violet, #808ae7);
-    color: var(--White, #fff);
+    background: #808ae7;
+    color: #fff;
     padding: 12px 44px;
     border: none;
     cursor: pointer;
@@ -240,7 +240,7 @@
   }
   
   .footer {
-    background: var(--Dark, #00171f);
+    background: #00171f;
     margin-top: 46px;
     padding: 113px 109px;
   }
@@ -278,7 +278,7 @@
     min-width: 240px;
     align-items: center;
     gap: 19px 34px;
-    color: var(--White, #fff);
+    color: #fff;
     font: 400 34px Nunito Sans, sans-serif;
   }
   
@@ -289,7 +289,7 @@
   }
   
   .copyright {
-    color: var(--White, #fff);
+    color: #fff;
     text-align: center;
     font: 400 34px Nunito Sans, sans-serif;
   }
