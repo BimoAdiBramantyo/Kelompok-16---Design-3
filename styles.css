@@ -1,5 +1,5 @@
 .landing-container {
-    background: var(--Dark-blue, #141352);
+    background: url(assets/background.png);
     display: flex;
     flex-direction: column;
     overflow: hidden;
